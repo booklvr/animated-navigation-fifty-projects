@@ -1,7 +1,8 @@
 import React from 'react'
+import AnimatedNavigation from './components/AnimatedNavigation'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <AnimatedNavigation />
 }
 
 export default App
